@@ -1,0 +1,1 @@
+Reading the [LightPipes Manual](https://opticspy.github.io/lightpipes/manual.html).
